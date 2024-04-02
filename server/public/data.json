@@ -1,0 +1,257 @@
+[
+  {
+    "brand": "Sony",
+    "model": "WH-1000XM4",
+    "price": 29232.83,
+    "color": "Black",
+    "type": "Over-ear",
+    "image": "https://www.sony.co.in/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF",
+    "headline": "Sony WH-1000XM4 Noise Cancelling Headphones",
+    "description": "Experience industry-leading noise cancellation with the Sony WH-1000XM4 headphones. Enjoy high-quality audio, personalized sound settings, and long-lasting comfort.",
+    "review": "⭐⭐⭐⭐⭐ 5/5 - Outstanding noise cancellation and sound quality. Comfortable for long listening sessions.",
+    "in_stock": true,
+    "images": [
+      "https://www.sony.co.in/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF",
+      "https://cdn.mos.cms.futurecdn.net/krMdUog4bxjkXzUVDhWLHJ.jpg",
+      "https://images.macrumors.com/t/USP2tqb6EhqVU9LNXN-vZWywSbI=/1600x/article-new/2020/08/sony-wh-1000mx4.jpg"
+    ]
+  },
+  {
+    "brand": "Bose",
+    "model": "QuietComfort 35 II",
+    "price": 25092.6,
+    "color": "Silver",
+    "type": "Over-ear",
+    "image": "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/product_silo_images/qc35_ii_black_EC_hero.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+    "headline": "Bose QuietComfort 35 II Wireless Headphones",
+    "description": "Immerse yourself in your music with the Bose QuietComfort 35 II headphones. Enjoy world-class noise cancellation, balanced audio, and hassle-free wireless connectivity.",
+    "review": "⭐⭐⭐⭐ 4/5 - Excellent noise cancellation. Sound quality is good but could be better.",
+    "in_stock": true,
+    "images": [
+      "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/product_silo_images/qc35_ii_black_EC_hero.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/product_silo_images/qc35_ii_black_EC_hero.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/product_silo_images/qc35_ii_black_EC_01.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "AirPods Pro",
+    "price": 20738.5,
+    "color": "White",
+    "type": "In-ear",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985",
+    "headline": "Apple AirPods Pro with Active Noise Cancellation",
+    "description": "Enjoy immersive sound and active noise cancellation with the Apple AirPods Pro. Designed for comfort and convenience, they provide a seamless wireless audio experience.",
+    "review": "⭐⭐⭐⭐ 4/5 - Great sound quality and noise cancellation. Comfortable fit for extended wear.",
+    "in_stock": true,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985",
+      "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MTJV3_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014867061",
+      "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MTJV3_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014868810"
+    ]
+  },
+  {
+    "brand": "Sennheiser",
+    "model": "HD 660 S",
+    "price": 41688.35,
+    "color": "Matte Black",
+    "type": "Over-ear",
+    "image": "https://m.media-amazon.com/images/I/71L+UZIY1iL._SX425_.jpg",
+    "headline": "Sennheiser HD 660 S Audiophile Headphones",
+    "description": "Experience audiophile-grade sound quality with the Sennheiser HD 660 S headphones. Designed for discerning listeners, they deliver exceptional clarity and detail.",
+    "review": "⭐⭐⭐⭐⭐ 5/5 - Superb sound quality and build. Comfortable for long listening sessions.",
+    "in_stock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/61kP64Fpb6L._SX425_.jpg",
+      "https://m.media-amazon.com/images/I/61Dxnhx7wXL._SX425_.jpg",
+      "https://media.graphassets.com/resize=w:199,fit:crop/quality=value:65/auto_image/compress/0km5UbpxRs6Z0bcbcG66"
+    ]
+  },
+  {
+    "brand": "Sony",
+    "model": "WH-CH710N",
+    "price": 16670.51,
+    "color": "Blue",
+    "type": "Over-ear",
+    "image": "https://m.media-amazon.com/images/I/31uLbX3a1vL._SX300_SY300_QL70_FMwebp_.jpg",
+    "headline": "Sony WH-CH710N Wireless Noise Cancelling Headphones",
+    "description": "Enjoy immersive sound with the Sony WH-CH710N headphones. Featuring active noise cancellation and a comfortable design, they're perfect for everyday listening.",
+    "review": "⭐⭐⭐⭐ 4/5 - Good sound quality and noise cancellation. Comfortable fit but could be better for long wear.",
+    "in_stock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/31uLbX3a1vL._SX300_SY300_QL70_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/I/616JNlxRwKL._SY355_.jpg",
+      "https://m.media-amazon.com/images/I/71F1BvfJ7rL._SY355_.jpg"
+    ]
+  },
+  {
+    "brand": "Jabra",
+    "model": "Elite 85h",
+    "price": 20845.09,
+    "color": "Navy",
+    "type": "Over-ear",
+    "image": "https://m.media-amazon.com/images/I/41XiGKSQdsL._SX300_SY300_QL70_FMwebp_.jpg",
+    "headline": "Jabra Elite 85h Wireless Over-ear Headphones",
+    "description": "Experience superior sound quality and active noise cancellation with the Jabra Elite 85h headphones. Enjoy crystal-clear calls and long-lasting comfort.",
+    "review": "⭐⭐⭐⭐ 4/5 - Excellent sound quality and call clarity. Comfortable for extended wear.",
+    "in_stock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/41XiGKSQdsL._SX300_SY300_QL70_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/I/811e5MeNQYL._SX425_.jpg",
+      "https://m.media-amazon.com/images/I/811e5MeNQYL._SX425_.jpg"
+    ]
+  },
+  {
+    "brand": "Beats",
+    "model": "Solo Pro",
+    "price": 25092.6,
+    "color": "Dark Blue",
+    "type": "On-ear",
+    "image": "https://m.media-amazon.com/images/I/61BOKa62IqL._SX679_.jpg",
+    "headline": "Beats Solo Pro Wireless On-ear Headphones",
+    "description": "Get immersed in your music with the Beats Solo Pro headphones. Featuring active noise cancellation and high-quality audio, they're perfect for on-the-go listening.",
+    "review": "⭐⭐⭐⭐ 4/5 - Great sound quality and noise cancellation. Comfortable fit but could be better for long wear.",
+    "in_stock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/61BOKa62IqL._SX679_.jpg",
+      "https://content.syndigo.com/asset/26df5a0c-5820-4113-bfc0-49ae198f46e9/240.jpeg",
+      "https://m.media-amazon.com/images/I/61j3MxlXwIL._SY355_.jpg"
+    ]
+  },
+  {
+    "brand": "JBL",
+    "model": "Live 650BTNC",
+    "price": 16661.23,
+    "color": "Black",
+    "type": "Over-ear",
+    "image": "https://mm.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw0e7e5cc4/JBL_LIVE650BTNC_Product%20Image_Folded_Black.png?sw=537&sfrm=png",
+    "headline": "JBL Live 650BTNC Wireless Noise Cancelling Headphones",
+    "description": "Enjoy powerful sound and active noise cancellation with the JBL Live 650BTNC headphones. Stay connected with hands-free calling and voice assistant support.",
+    "review": "⭐⭐⭐⭐ 4/5 - Excellent sound quality and noise cancellation. Comfortable fit but could be better for long wear.",
+    "in_stock": true,
+    "images": [
+      "https://mm.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb938071d/JBL_Live650BTNC_Product%20Photo_AccessoriesBlack.png?sw=537&sfrm=png",
+      "https://mm.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw39ab3278/JBL_LIVE650BTNC_Product-Image_Hero_Blue_067_x1-1605x1605px.png?sw=537&sfrm=png",
+      "https://mm.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb98a08cc/JBL_LIVE650BTNC_Product%20Image_Regular_Fold_Blue_103_x1.png?sw=537&sfrm=png"
+    ]
+  },
+  {
+    "brand": "AKG",
+    "model": "K702",
+    "price": 29104.62,
+    "color": "Black",
+    "type": "Over-ear",
+    "image": "https://www.harmanaudio.in/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6411e565/AKG_k702.png?sw=453&sh=453",
+    "headline": "AKG K702 Reference Studio Headphones",
+    "description": "Experience accurate sound reproduction with the AKG K702 headphones. Designed for studio use, they deliver precise audio and exceptional comfort for long listening sessions.",
+    "review": "⭐⭐⭐⭐ 4/5 - Accurate sound reproduction. Comfortable fit, but build quality could be better.",
+    "in_stock": true,
+    "images": [
+      "https://www.harmanaudio.in/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6411e565/AKG_k702.png?sw=453&sh=453",
+      "https://www.harmanaudio.in/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwe32257ad/AKG_k702_4.png?sw=453&sh=453",
+      "https://www.harmanaudio.in/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw970f47ab/AKG_k702_1.png?sw=453&sh=453"
+    ]
+  },
+  {
+    "brand": "Audio-Technica",
+    "model": "ATH-M50x",
+    "price": 12426.5,
+    "color": "Black",
+    "type": "Over-ear",
+    "image": "https://m.media-amazon.com/images/I/712j1vD+c8L._SY679_.jpg",
+    "headline": "Audio-Technica ATH-M50x Professional Studio Headphones",
+    "description": "Get studio-quality sound with the Audio-Technica ATH-M50x headphones. Featuring exceptional clarity and deep, accurate bass response, they're perfect for professional monitoring and mixing.",
+    "review": "⭐⭐⭐⭐⭐ 5/5 - Excellent sound quality and build. Comfortable for long wear.",
+    "in_stock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/712j1vD+c8L._SY679_.jpg",
+      "https://m.media-amazon.com/images/I/51UHGmnyJYL._SY879_.jpg",
+      "https://m.media-amazon.com/images/I/61tQ214wSxL._SX425_.jpg"
+    ]
+  },
+  {
+    "brand": "Sennheiser",
+    "model": "HD 569",
+    "price": 15017.9,
+    "color": "Black",
+    "type": "Over-ear",
+    "image": "https://www.headphonezone.in/cdn/shop/products/sennheiser-hd-569-headphone-zone-29093553287.jpg?v=1579780219&width=800",
+    "headline": "Sennheiser HD 569 Closed-back Headphones",
+    "description": "Enjoy immersive sound with the Sennheiser HD 569 headphones. Featuring closed-back design and ergonomic earpads, they deliver powerful bass and exceptional comfort.",
+    "review": "⭐⭐⭐⭐ 4/5 - Great sound quality and comfort. Build quality could be better for the price.",
+    "in_stock": true,
+    "images": [
+      "https://www.headphonezone.in/cdn/shop/products/sennheiser-hd-569-headphone-zone-29093553287.jpg?v=1579780219&width=800",
+      "https://www.headphonezone.in/cdn/shop/products/sennheiser-hd-569-headphone-zone-29093551111.jpg?v=1579780219&width=800",
+      "https://www.headphonezone.in/cdn/shop/products/Headphone-Zone-Sennheiser-HD569-1160-1160-012.jpg?v=1641628956&width=800"
+    ]
+  },
+  {
+    "brand": "Philips",
+    "model": "SHP9500",
+    "price": 6673.33,
+    "color": "Black",
+    "type": "Over-ear",
+    "image": "https://m.media-amazon.com/images/I/61CN8jOBy3L._AC_SY550_.jpg",
+    "headline": "Philips SHP9500 Hi-Fi Stereo Headphones",
+    "description": "Experience high-fidelity sound with the Philips SHP9500 headphones. Featuring breathable ear cushions and an open-back design, they provide immersive audio and long-term comfort.",
+    "review": "⭐⭐⭐⭐ 4/5 - Great sound quality and comfort. Build quality could be better for the price.",
+    "in_stock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/61CN8jOBy3L._AC_SY550_.jpg",
+      "https://m.media-amazon.com/images/I/71U4BLs0ClL._AC_SX425_.jpg",
+      "https://m.media-amazon.com/images/I/81K74AUhrmL.SS700.jpg"
+    ]
+  },
+  {
+    "brand": "Shure",
+    "model": "SRH440",
+    "price": 8243.5,
+    "color": "Black",
+    "type": "Over-ear",
+    "image": "https://m.media-amazon.com/images/I/51JF7QLCFfL._SY355_.jpg",
+    "headline": "Shure SRH440 Professional Studio Headphones",
+    "description": "Get accurate audio monitoring with the Shure SRH440 headphones. Designed for professional studio use, they deliver balanced sound and excellent comfort for extended wear.",
+    "review": "⭐⭐⭐⭐ 4/5 - Accurate sound reproduction. Comfortable fit, but could have better noise isolation.",
+    "in_stock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/51JF7QLCFfL._SY355_.jpg",
+      "https://m.media-amazon.com/images/I/51F1nA1W7OL._SY355_.jpg",
+      "https://cdn.shopaccino.com/johns-music/products/srh440-a-361352_l.jpg?v=507?param=1"
+    ]
+  },
+  {
+    "brand": "Audio-Technica",
+    "model": "ATH-M20x",
+    "price": 4084.5,
+    "color": "Black",
+    "type": "Over-ear",
+    "image": "https://m.media-amazon.com/images/I/71HlB-gf46L._SL1500_.jpg",
+    "headline": "Audio-Technica ATH-M20x Professional Studio Headphones",
+    "description": "Experience professional sound quality with the Audio-Technica ATH-M20x headphones. Featuring robust construction and accurate audio reproduction, they're ideal for studio monitoring.",
+    "review": "⭐⭐⭐⭐ 4/5 - Good sound quality for the price. Comfortable fit, but lacks in build quality.",
+    "in_stock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1595510143445-ef47f8831e44?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "https://m.media-amazon.com/images/I/61h1LpJVCTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61w9ttT8aNL._SL1500_.jpg"
+    ]
+  },
+  {
+    "brand": "Sony",
+    "model": "MDRZX110NC",
+    "price": 4168.39,
+    "color": "Black",
+    "type": "Over-ear",
+    "image": "https://m.media-amazon.com/images/I/71ECrjXs+GL.jpg",
+    "headline": "Sony MDRZX110NC Noise Cancelling Headphones",
+    "description": "Enjoy distraction-free listening with the Sony MDRZX110NC headphones. Featuring active noise cancellation, they provide clear sound and long-lasting comfort.",
+    "review": "⭐⭐⭐ 3/5 - Decent noise cancellation. Sound quality is average for the price.",
+    "in_stock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/71ECrjXs+GL.jpg",
+      "https://m.media-amazon.com/images/I/51+Z0V6WrjL._AC_SX425_.jpg",
+      "https://m.media-amazon.com/images/I/51h-raTj9sL._AC_SX425_.jpg"
+    ]
+  }
+]

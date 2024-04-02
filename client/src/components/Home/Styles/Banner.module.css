@@ -1,0 +1,56 @@
+.container {
+  display: flex;
+  background: linear-gradient(90deg, #7286b4 0%, #e794ce 100%);
+  margin: 4rem 6rem;
+  top: 9rem;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 0.5rem;
+  padding-right: 1rem;
+  max-height: 14rem;
+  border-radius: 30px;
+}
+.Text {
+  font-family: Roboto;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 80px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2e0052;
+  margin: 3rem;
+}
+.girl_img {
+  height: 18rem;
+  margin-bottom: 4rem;
+}
+
+@media (min-width: 200px) and (max-width: 600px) {
+  .container {
+    margin-left: 2.5rem;
+    max-height: 6rem;
+    position: relative;
+    top: 5rem;
+    border-radius: 7px;
+    width: 80vw;
+  }
+  .Text {
+    font-size: 0.85rem;
+    margin-left: 0rem;
+    padding-right: 1rem;
+    font-family: Roboto;
+    font-size: 20.55px;
+    font-weight: 500;
+    line-height: 24.09px;
+    text-align: left;
+  }
+  .girl_img {
+    height: 8.25rem;
+    margin-bottom: 1.2rem;
+    margin-left: -5rem;
+  }
+  .text_con {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+}

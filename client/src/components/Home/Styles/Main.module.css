@@ -1,0 +1,86 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  width: 85vw;
+  margin: auto;
+  padding: 0.05rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 100%;
+  max-width: 21.75rem;
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.productImage {
+  width: 100%;
+  max-width: 15rem;
+  height: 15rem;
+  object-fit: cover;
+  border: 1rem #d4e5ff solid;
+  cursor: pointer;
+}
+
+.details {
+  text-align: center;
+}
+
+p {
+  font-family: Roboto;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-align: left;
+  width: 16.5625rem;
+}
+
+.addCart {
+  position: absolute;
+  width: 3rem;
+  height: 3.1875rem;
+  bottom: 13rem;
+  right: 3rem;
+  gap: 0px;
+  opacity: 0px;
+  cursor: pointer;
+}
+@media (min-width: 200px) and (max-width: 600px) {
+  .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-around;
+    top: 15rem;
+    gap: 1rem;
+    padding: -2rem;
+    margin-left: 0.9rem;
+    margin-right: 0.9rem;
+  }
+  .product {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    border: 1.13px solid #cecece;
+  }
+  .img_div img {
+    max-height: 6rem;
+    border: 0.5rem solid #d4e5ff;
+    width: 6rem;
+    object-fit: cover;
+  }
+  .deatils_div {
+    font-family: Roboto;
+    font-size: 12.3px;
+    font-weight: 500;
+    line-height: 14.41px;
+    text-align: left;
+  }
+}

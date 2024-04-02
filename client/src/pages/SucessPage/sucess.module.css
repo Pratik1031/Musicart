@@ -1,0 +1,62 @@
+.logo {
+  display: inline-flex;
+  align-items: center;
+  flex-direction: row;
+  margin: 2rem;
+}
+
+.success {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 3px solid #e3e3e3;
+  margin-left: 28%;
+  margin-top: -2rem;
+  box-shadow: 14px 16px 23px 2px #0000001c;
+  background: #ffffff;
+  height: 65vh;
+  width: 50vw;
+  border-radius: 11px;
+}
+.success p {
+  color: #969696;
+  font-family: Roboto;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 32.81px;
+  text-align: left;
+  margin-top: -0.85rem;
+}
+.sucessBtn {
+  width: 34.1875rem;
+  height: 4.125rem;
+  border-radius: 0.875rem;
+  opacity: 0rem;
+  background: #2e0052;
+  font-family: Roboto;
+  font-size: 1.6875rem;
+  font-weight: 500;
+  line-height: 1.9775rem;
+  text-align: center;
+  color: #ffffff;
+  cursor: pointer;
+}
+@media (min-width: 200px) and (max-width: 600px) {
+  .hideOnMobile {
+    display: none;
+  }
+  .success {
+    border: 3px solid #e3e3e3;
+    margin-left: 5%;
+    margin-top: 2rem;
+    box-shadow: 14px 16px 23px 2px #0000001c;
+    background: #ffffff;
+    height: 65vh;
+    width: 90vw;
+  }
+  .success p {
+    font-size: 1rem;
+    text-align: center;
+  }
+}

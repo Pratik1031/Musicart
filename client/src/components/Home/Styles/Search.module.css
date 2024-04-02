@@ -1,0 +1,50 @@
+.container {
+  height: 3rem;
+  background-color: #ffffff;
+  border: 3px solid #c8c8c8;
+  border-radius: 48px;
+  width: 83vw;
+  margin-top: 3rem;
+  margin-left: 6rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  overflow: hidden;
+}
+
+.Search_input {
+  font-family: Roboto;
+  width: 40vw;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4375rem;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #666666;
+  border: none;
+  background: none;
+  outline: none;
+}
+
+.Search_icon {
+  width: 1.8025rem;
+  height: 1.8025rem;
+  top: 0.3675rem;
+  left: 0.3675rem;
+  gap: 0px;
+  border: 0.1837rem 0rem 0rem 0rem;
+  opacity: 0rem;
+  cursor: pointer;
+}
+
+@media (min-width: 200px) and (max-width: 600px) {
+  .container {
+    position: fixed;
+    top: 0;
+    z-index: 999;
+    width: 65vw;
+    /* background: #2e0052; */
+  }
+}
