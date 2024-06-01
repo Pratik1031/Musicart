@@ -14,8 +14,8 @@ const generateAccess = async (userId) => {
     return access_token;
   } catch (error) {
     throw new ApiError(
-      500,
-      "Something went wrong while generating referesh and access token"
+      404,
+      "Something went wrong while generating refresh and access token"
     );
     // console.log(error);
   }
@@ -40,7 +40,7 @@ const signup = asyncHandler(async (req, res) => {
   const existing_user = await User.findOne({ email, mobileNo });
 
   if (existing_user) {
-    throw new ApiError(400, "User Already Exists Please Log In ");
+    throw new ApiError(402, "User Already Exists Please Log In ");
   }
 
   const encrypted_password = await hash(password, 10);
@@ -61,7 +61,7 @@ const signup = asyncHandler(async (req, res) => {
   return res
     .status(201)
     .json(
-      new ApiResponse(200, created_user, "User has been sucessfully created")
+      new ApiResponse(200, created_user, "User has been successfully created")
     );
 });
 
@@ -91,9 +91,8 @@ const login = asyncHandler(async (req, res) => {
 
   const logged_user = await User.findById(user._id).select("-password");
 
-  
   if (!logged_user) {
-    throw new ApiError(402, "Error While Loggind Please Try Again ");
+    throw new ApiError(402, "Error While Logging Please Try Again ");
   }
 
   const options = {
