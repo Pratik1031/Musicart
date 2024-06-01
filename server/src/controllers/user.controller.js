@@ -4,17 +4,19 @@ const ApiError = require("../utils/ApiError");
 const ApiResponse = require("../utils/ApiResponse");
 const { hash, compare } = require("bcrypt");
 
-// Acess Token
+// Access Token
 const generateAccess = async (userId) => {
   try {
-    const user_acess = await User.findById(userId);
-    // console.log(user_acess, "User");
-    const access_token = user_acess.generateAccess_token();
-    // console.log("Acess", access_token);
+    const user_access = await User.findById(userId);
+    // console.log(user_access, "User");
+    const access_token = user_access.generateAccess_token();
+    // console.log("Access", access_token);
     return access_token;
   } catch (error) {
     throw new ApiError(
+
       404,
+
       "Something went wrong while generating refresh and access token"
     );
     // console.log(error);
@@ -25,7 +27,7 @@ const generateAccess = async (userId) => {
 
 const signup = asyncHandler(async (req, res) => {
   /*  Steps For Registering User in DB
-    1. Get Data form body { name , email , password, mobileno} 
+    1. Get Data form body { name , email , password, mobile no} 
     2. Check if email exists or not 
     3.validate if all fields are not empty 
     4.encrypt password 
